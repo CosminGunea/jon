@@ -40,7 +40,8 @@ body {
 .gift1:hover {
     background-image: url(images/gay.gif);
 }
-    gift1:hover {
+
+.gift2:hover {
     background-image: url(images/papalsea.png);
 }
 .check {
